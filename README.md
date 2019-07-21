@@ -7,15 +7,18 @@ Android SDK
 
 See http://www.androiddocs.com/sdk/installing/index.html, which ever one you want
 
+
 Android NDK
 
 See https://developer.android.com/ndk/downloads and
 
 https://developer.android.com/ndk/guides
 
+
 Devkitpro (nintendo products)
 
 See https://devkitpro.org/wiki/Getting_Started (pacman installer recommended)
+
 
 Rockbox (arm,sh,etc)
 
